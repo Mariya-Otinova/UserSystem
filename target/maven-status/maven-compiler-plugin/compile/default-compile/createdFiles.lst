@@ -1,0 +1,4 @@
+server\service\UserService.class
+server\dao\UserDao.class
+server\model\User.class
+server\controller\UserController.class
